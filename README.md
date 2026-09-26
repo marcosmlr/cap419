@@ -15,7 +15,7 @@ Repositório com materiais, códigos e experimentos desenvolvidos durante a disc
 📚 Conteúdo
 <p style="font-family: Arial, sans-serif; font-size: 14px;">
 
-* Slides da aula: [baixar/visualizar PDF](./docs/cube4health_introduction_CAP419_talk_2026.pdf?raw=true)
+* Slides da aula: [baixar/visualizar PDF](https://raw.githubusercontent.com/marcosmlr/cap419/main/docs/cube4health_introduction_CAP419_talk_2026.pdf)
 * Notebooks de aula e experimentos
 * Análises e visualizações
 * Referências bibliográficas
